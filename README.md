@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/cd2622e1-6958-4559-a3ac-9098ad795842)
 
 # 🥃 Chapter 1 — The Whiskey Code  
 ### *Decoding Rarity with Data*
