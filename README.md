@@ -143,7 +143,7 @@ plt.title("Price Distribution by ABV Strength")
 
 ## 🖥️ View the Project Presentation
 
-For a complete walkthrough with visuals, **[click here to view the presentation](./Whiskey_EDA/Whiskey_EDA_Shubham_Parmar.pptx)**  
+For a complete walkthrough with visuals, **[click here to view the presentation](./Whiskey_EDA/Whiskey_EDA_Shubham_Parmar.pdf)**  
 
 
 ## 👨‍💻 About Me
