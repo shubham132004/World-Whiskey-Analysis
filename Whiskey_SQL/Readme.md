@@ -108,7 +108,7 @@ I am **Shubham Parmar**, a data enthusiast and BCA graduate from Parul Universit
 ## 📚 Previous Chapter
 
 You can visit **Chapter 1 – Whiskey EDA** here:  
-👉 [GitHub Repository: Whiskey EDA](https://github.com/shubham132004/World-Whiskey-Analysis/Whiskey_EDA)
+👉 [GitHub Repository: Whiskey EDA](https://github.com/shubham132004/World-Whiskey-Analysis/tree/main/Whiskey_EDA)
 
 It includes:
 - Web scraping scripts
