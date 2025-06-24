@@ -1,4 +1,7 @@
-# 🥃 The Whiskey Code: Behind The Spirit  
+![21a33cb1-2986-4f5a-a640-0ab31f14929b](https://github.com/user-attachments/assets/851c92c2-4fbd-4981-b02e-8995664a4147)
+
+
+#  The Whiskey Code: Behind The Spirit  
 ### *Uncorking insights from data — one dram at a time.*
 
 ---
