@@ -138,6 +138,12 @@ plt.title("Price Distribution by ABV Strength")
 - Study consumer psychology in whiskey buying
 
 ---
+![image](https://github.com/user-attachments/assets/42923de0-6daa-47b6-bc51-25350f35bb87)
+
+
+## 🖥️ View the Project Presentation
+
+For a complete walkthrough with visuals, **[click here to view the presentation](./Whiskey_EDA/Whiskey_EDA_Shubham_Parmar.pptx)**  
 
 
 ## 👨‍💻 About Me
