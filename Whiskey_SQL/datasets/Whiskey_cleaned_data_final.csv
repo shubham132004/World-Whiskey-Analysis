@@ -1,0 +1,443 @@
+Brand,Varieties,Type,Centi_liter,Year,ABV_Percent,Price_Rupees,ABV_Category,Mili_liter,Country
+Angel's Envy,Straight Port Cask Finish Bourbon,Bourbon,70,NAS,3,6810,Low,700,United States
+Angel's Envy,Manhattan Bundle - Martini Rubino Vermouth & Straight Port Cask Finish Bourbon,Bourbon,70,NAS,3,9082,Low,700,United States
+Buffalo Trace,Traveller Bourbon Whiskey (Chris,Bourbon,70,NAS,45,3630,Medium,700,United States
+Buffalo Trace,Kosher Wheat Recipe Bourbon,Bourbon,75,NAS,47,4993,High,750,United States
+Elijah Craig,Barrel Proof Kentucky Straight Bourbon,Barrel,70,NAS,8,14194,Low,700,Scotland
+Maker's Mark,Kentucky Straight Bourbon,Kentucky,70,NAS,45,4084,Medium,700,Kentucky
+Ben Holladay,Soft Red Wheat Bottled In Bond Straight Bourbon,Bourbon,70,NAS,50,9082,High,700,United States
+Booker's,2024-01 Batch Bourbon,Bourbon,70,7 Year Old,2,10218,Low,700,United States
+Wild Turkey,Rare Breed Kentucky Straight Bourbon,Kentucky,70,NAS,4,6810,Low,700,Kentucky
+Wild Turkey,81 Kentucky Straight Bourbon,Kentucky,70,NAS,5,3402,Low,700,Kentucky
+Maker's Mark,46 Kentucky Straight Bourbon,Kentucky,70,NAS,47,4538,High,700,Kentucky
+Wild Turkey,101 Kentucky Straight Bourbon,Kentucky,70,NAS,5,4538,Low,700,Kentucky
+Old Bardstown,Kentucky Straight Bourbon,Kentucky,70,NAS,45,4538,Medium,700,Kentucky
+Leiper’s Fork,Bottled In Bond Bourbon,Bourbon,70,4 Year Old,50,9082,High,700,United States
+Leiper’s Fork,Bottled In Bond Tennessee Bourbon,Tennessee,70,4 Year Old,50,9082,High,700,Tennessee
+Old Forester,1870 Original Batch Kentucky Straight Bourbon,Kentucky,70,NAS,45,5447,Medium,700,Kentucky
+Jim Beam,Black Extra-Aged Bourbon,Bourbon,70,NAS,43,3141,Medium,700,United States
+Elijah Craig,Single Barrel Bourbon,Barrel,70,18 Year Old,45,24986,Medium,700,Scotland
+Buffalo Trace,Kosher Rye Recipe Bourbon,Rye,75,NAS,47,4538,High,750,Canada
+Basil Hayden's,Kentucky Straight Bourbon,Kentucky,70,NAS,40,5674,High,700,Kentucky
+SirDavis,Sherry Cask Rye,Rye,70,NAS,44,8969,Medium,700,Canada
+Wild Turkey,Kentucky Straight Rye,Kentucky,70,NAS,5,4198,Low,700,Kentucky
+Elijah Craig,Kentucky Straight Rye,Kentucky,70,NAS,47,5561,High,700,Kentucky
+Jack Daniel's,Bonded Rye Tennessee,Rye,70,NAS,50,4879,High,700,Canada
+Rebel,Straight Rye,Rye,70,NAS,45,4538,Medium,700,Canada
+Buffalo Trace,Kosher Straight Rye,Rye,75,NAS,47,4538,High,750,Canada
+Knob Creek,Small Batch Kentucky Straight Rye,Kentucky,70,NAS,50,5334,High,700,Kentucky
+Sagamore,Double Oak Rye,Rye,70,NAS,3,8742,Low,700,Canada
+New York Distilling,Ragtime Rye Bottled In Bond,Rye,70,4 Year Old,50,5674,High,700,Canada
+Rabbit Hole,Boxergrail Kentucky Straight Rye,Kentucky,70,NAS,5,5334,Low,700,Kentucky
+WhistlePig,Vermont Oak Finish Rye,Rye,70,15 Year Old,46,28394,Medium,700,Canada
+Balcones,Texas Rye 100 Proof,Rye,70,NAS,50,5674,High,700,Canada
+WhistlePig,Piggyback 100% Rye,Rye,70,6 Year Old,3,5561,Low,700,Canada
+Few,Immortal Rye,Rye,70,NAS,5,7606,Low,700,Canada
+Willett's,Family Reserve Rye,Rye,70,4 Year Old,4,9082,Low,700,Canada
+James E Pepper,1776 Straight Rye,Rye,70,NAS,46,5106,Medium,700,Canada
+New York Distilling,Ragtime Rye,Rye,70,NAS,2,4527,Low,700,Canada
+Heaven's Door,Straight Rye Whiskey (Bob,Rye,70,NAS,43,7946,Medium,700,Canada
+Few,Rye,Rye,70,NAS,5,7946,Low,700,Canada
+Jack Daniel's,Tennessee Rye,Tennessee,70,NAS,45,3743,Medium,700,Tennessee
+Jack Daniel's,American Single Malt Sherry Cask Whiskey (1,American,100,NAS,45,13626,Medium,1000,United States
+Davidson Reserve,Four Grain Tennessee,Tennessee,70,NAS,50,6242,High,700,Tennessee
+Davidson Reserve,Sour Mash Tennessee,Tennessee,70,NAS,48,5447,High,700,Tennessee
+Uncle Nearest,1856 Premium,Tennessee,70,NAS,50,8514,High,700,Tennessee
+Jack Daniel's,Bonded Tennessee,Tennessee,70,NAS,50,4538,High,700,Tennessee
+Jack Daniel's,Triple Mash Tennessee,Tennessee,70,NAS,50,4538,High,700,Tennessee
+Uncle Nearest,1884 Small Batch,Tennessee,70,NAS,5,6810,Low,700,Tennessee
+Heaven's Door,Double Barrel Whiskey (Bob,Barrel,70,NAS,50,8514,High,700,Scotland
+Heaven's Door,Tennessee Bourbon Whiskey (Bob,Tennessee,70,NAS,42,6810,Medium,700,Tennessee
+Jack Daniel's,Single Barrel Select,Barrel,70,NAS,45,5106,Medium,700,Scotland
+Jack Daniel's,Single Barrel Cask Strength,Barrel,70,NAS,5,9082,Low,700,Scotland
+Jack Daniel's,Single Barrel Rye,Barrel,70,NAS,45,7151,Medium,700,Scotland
+Jack Daniel's,Old No. 7 Guitar Case,Barrel,70,NAS,40,5674,High,700,Scotland
+Jack Daniel's,No. 27 Gold Maple Wood Finish,Barrel,70,NAS,40,10446,High,700,Scotland
+Jack Daniel's,Frank Sinatra Select Whiskey (1,Barrel,100,NAS,45,17602,Medium,1000,Scotland
+Blanton's,Straight From The Barrel - Single Cask #428,Barrel,70,NAS,35,17034,Low,700,Scotland
+Eagle Rare,Double Eagle Very Rare,Eagle,70,NAS,5,477114,Low,700,Kentucky
+Yellowstone,Select Rum Finish,Rum Finish,70,NAS,50,6810,High,700,Jamaica
+Woodford Reserve,Kentucky Derby 145 Whiskey (1,Kentucky,100,NAS,2,6810,Low,1000,Kentucky
+Yellowstone,108 Proof American Single Malt,American,70,NAS,54,7719,High,700,United States
+Booker's,2024-01 Batch Bourbon,Bourbon,70,NAS,2,10218,Low,700,United States
+Buffalo Trace,Bourbon Cream,Bourbon,70,NAS,15,2266,Low,700,United States
+Blanton's,Original Single Barrel Bourbon,Barrel,70,NAS,5,7946,Low,700,Scotland
+Blanton's,Gold Edition Single Barrel Bourbon,Barrel,70,NAS,5,12945,Low,700,Scotland
+Eagle Rare,Kentucky Straight Bourbon,Kentucky,70,NAS,45,4766,Medium,700,Kentucky
+Buffalo Trace,Kentucky Straight Bourbon,Kentucky,70,NAS,40,3175,High,700,Kentucky
+Sazerac,Straight Rye,Rye,70,NAS,45,4993,Medium,700,Canada
+Blanton's,Straight From The Barrel - Single Cask #418,Barrel,70,NAS,8,19306,Low,700,Scotland
+Blanton's,Straight From The Barrel - Single Cask #427,Barrel,70,NAS,8,22714,Low,700,Scotland
+William Larue Weller,Full Proof Bourbon,Bourbon,75,NAS,57,28394,High,750,United States
+Stagg Jr,Batch 23C Barrel Proof Kentucky Straight Bourbon,Barrel,75,NAS,95,31802,High,750,Scotland
+Buffalo Trace,Ice Mould & Kentucky Straight Bourbon,Kentucky,70,NAS,40,3402,High,700,Kentucky
+Buffalo Trace,Rock Hill Farms Single Barrel Bourbon,Barrel,70,NAS,50,52250,High,700,Scotland
+Blanton's,Straight From The Barrel - Single Cask #1461,Barrel,70,NAS,7,22714,Low,700,Scotland
+Blanton's,Straight From The Barrel - Single Cask #2174,Barrel,70,NAS,7,34074,Low,700,Scotland
+Bushmills,Single Malt Rare Irish,Irish,70,NAS,46,215834,Medium,700,Ireland
+Bushmills,Single Malt Rare Irish,Irish,70,NAS,46,89738,Medium,700,Ireland
+Bushmills,Irish Single Malt,Irish,70,NAS,40,5447,High,700,Ireland
+Bushmills,Irish Single Malt,Irish,70,NAS,40,24532,High,700,Ireland
+Bushmills,American Oak Cask Finish Irish,American,70,NAS,40,3402,High,700,United States
+Bushmills,Caribbean Rum Cask Finish,American,70,NAS,40,3516,High,700,United States
+Bushmills,Original & Black Bush 35cl Gift Pack,American,35,NAS,40,3630,High,350,United States
+Bushmills,Original Irish,Irish,70,NAS,40,3175,High,700,Ireland
+Bushmills,Black Bush Irish,Irish,70,NAS,40,3970,High,700,Ireland
+Bushmills,Highball Glass & American Oak Cask Finish Irish,American,70,NAS,40,3630,High,700,United States
+Bushmills,Highball Glass & Irish Single Malt,Irish,70,NAS,40,5561,High,700,Ireland
+Bushmills,Highball Glass & Caribbean Rum Cask Finish,Irish,70,NAS,40,3630,High,700,Ireland
+Bushmills,Highball Glass & Original Irish,Irish,70,NAS,40,3289,High,700,Ireland
+Bushmills,Highball Glass & Black Bush Irish,Irish,70,NAS,40,4425,High,700,Ireland
+Bushmills,Coaster & Irish Single Malt,Irish,70,NAS,40,4879,High,700,Ireland
+Bushmills,Irish Single Malt,Irish,70,NAS,40,4879,High,700,Ireland
+Bushmills,Branded Glass & Caribbean Rum Cask Finish,Irish,70,NAS,40,3289,High,700,Ireland
+Bushmills,Branded Glass & Original Irish,Irish,70,NAS,40,3289,High,700,Ireland
+Bushmills,Branded Glass & Black Bush Irish,Irish,70,NAS,40,4425,High,700,Ireland
+Bushmills,The Causeway Collection - Rum Cask Whiskey (UK,Irish,70,NAS,2,39641,Low,700,Ireland
+Midleton,Very Rare Barry Crockett Legacy,Very Rare,70,NAS,46,32938,Medium,700,England
+Midleton,Very Rare 2025 Edition,Very Rare,70,NAS,40,24986,High,700,England
+Midleton,Forêt De Troncais Edition 2,Very Rare,70,NAS,48,499834,High,700,England
+Midleton,Very Rare Silent Distillery Chapter 5,Very Rare,70,NAS,4,5452794,Low,700,England
+Midleton,Very Rare 40th Anniversary Ruby,Very Rare,70,NAS,40,2010714,High,700,England
+Midleton,Very Rare 2024 Edition,Very Rare,70,NAS,40,22714,High,700,England
+Midleton,Very Rare Foret De Troncais,Very Rare,70,NAS,48,485634,High,700,England
+Midleton,Very Rare 2023 Edition,Very Rare,70,NAS,40,28394,High,700,England
+Midleton,Very Rare Silent Distillery Chapter 3,Very Rare,70,NAS,7,4771194,Low,700,England
+Midleton,Very Rare 2022 Edition,Very Rare,70,NAS,40,68154,High,700,England
+Midleton,Dair Ghaelach Knockrath Forest - Tree 2,Very Rare,70,NAS,3,90874,Low,700,England
+Midleton,Dair Ghaelach Knockrath Forest - Tree 5,Very Rare,70,NAS,5,113594,Low,700,England
+Midleton,Very Rare 2021 Edition,Very Rare,70,NAS,40,68154,High,700,England
+Midleton,Very Rare 2020 Edition,Very Rare,70,NAS,40,170394,High,700,England
+Midleton,Very Rare 2019 Edition,Very Rare,70,NAS,40,113594,High,700,England
+Midleton,Very Rare 2013 Edition,Very Rare,70,NAS,40,170394,High,700,England
+Midleton,Very Rare 2017 Edition,Very Rare,70,NAS,40,124954,High,700,England
+Midleton,Very Rare 2001 Edition,Very Rare,70,NAS,40,181754,High,700,England
+Midleton,Very Rare 2018 Edition,Very Rare,70,NAS,40,113594,High,700,England
+Midleton,Very Rare 2017 Edition,Very Rare,70,NAS,40,170394,High,700,England
+Redbreast,Single Pot Still Irish,Irish,70,NAS,46,20783,Medium,700,Ireland
+Redbreast,Single Pot Still Irish,Irish,70,NAS,40,6242,High,700,Ireland
+Redbreast,Single Pot Still Irish,Irish,70,NAS,46,33506,Medium,700,Ireland
+Redbreast,Single Pot Still Irish - Batch 6,Irish,70,NAS,9,61906,Low,700,Ireland
+Redbreast,Iberian Series #1 Single Pot Still PX,Irish,70,NAS,46,8742,Medium,700,Ireland
+Redbreast,Glass & Single Pot Still,Irish,70,NAS,46,33506,Medium,700,Ireland
+Redbreast,Glass & Single Pot Still Irish,Irish,70,NAS,40,6810,High,700,Ireland
+Redbreast,Tasting Glass & Single Pot Still Irish,Irish,70,NAS,40,6583,High,700,Ireland
+Redbreast,Cask Strength Batch B1/23,Irish,70,NAS,2,10218,Low,700,Ireland
+Redbreast,Birdfeeder & Single Malt,Irish,70,NAS,40,7946,High,700,Ireland
+Redbreast,Iberian Series #2 Single Pot Still Tawny Port,Irish,70,NAS,46,17034,Medium,700,Ireland
+Redbreast,Cask Strength Batch B1-22,Irish,70,NAS,1,10218,Low,700,Ireland
+Redbreast,Birdfeeder & Miniature Gift Pack,Irish,70,NAS,40,10786,High,700,Ireland
+Redbreast,Birdfeeder & 12 Year Old,Irish,70,NAS,40,8742,High,700,Ireland
+Redbreast,Cask Strength Batch B1-20,Irish,70,NAS,6,24986,Low,700,Ireland
+Redbreast,Family Collection Miniature Gift Pack Whiskey (3 x,Irish,5,NAS,46,3857,Medium,50,Ireland
+Redbreast,Cask Strength Batch B2-19,Irish,70,NAS,8,17034,Low,700,Ireland
+Redbreast,Lustau Edition Irish,Irish,70,NAS,46,7378,Medium,700,Ireland
+Redbreast,Single Pot Still Irish,Irish,70,NAS,46,7378,Medium,700,Ireland
+Redbreast,Single Pot Still Irish - Batch 5,Irish,70,NAS,6,7378,Low,700,Ireland
+Blue Spot,Cask Strength Single Irish Pot Still Batch #3,Irish,70,NAS,1,10673,Low,700,Ireland
+Gold Spot,Generations Edition,Irish,70,NAS,46,14081,Medium,700,Ireland
+Red Spot,Single Pot Still Irish,Irish,70,NAS,46,13740,Medium,700,Ireland
+Green Spot,Leoville Barton Bordeaux Wine Cask Finish Irish,Irish,70,NAS,46,7378,Medium,700,Ireland
+Yellow Spot,Single Pot Still Irish,Irish,70,NAS,46,9082,Medium,700,Ireland
+Green Spot,Single Pot Still Irish,Irish,70,NAS,40,5674,High,700,Ireland
+Irish Spot,"Gold, Green & Yellow Spot Whiskey Bundle Irish Whiskey (3 x",Irish,70,NAS,4,29530,Low,700,Ireland
+Green Spot,Quails' Gate Pinot Noir Wine Cask Finish Irish,Irish,70,NAS,46,17034,Medium,700,Ireland
+Gold Spot,135th Anniversary Limited Edition Irish,Irish,70,NAS,4,28383,Low,700,Ireland
+Irish Spot,"Blue, Red, Green & Yellow Bundle Irish Whiskey (4 x",Irish,70,NAS,40,39186,High,700,Ireland
+Green Spot,Chateau Montelena Zinfandel Wine Cask Finish Irish,Irish,70,NAS,46,7946,Medium,700,Ireland
+Irish Spot,"Gold, Green, Yellow & Red Bundle Irish Whiskey (4 x",Irish,70,NAS,4,7378,Low,700,Ireland
+Blue Spot,Cask Strength Single Irish Pot Still Batch #2,Irish,70,NAS,9,7378,Low,700,Ireland
+Irish Spot,Blue & Red Spot Bundle Irish Whiskey (2 x,Irish,70,NAS,8,7378,Low,700,Ireland
+Blue Spot,Cask Strength Single Irish Pot Still Batch #1,Irish,70,NAS,7,7378,Low,700,Ireland
+Green Spot,Mitchell & Son Irish Whiskey (Old,Irish,70,NAS,40,7378,High,700,Ireland
+Jameson,Triple Triple Irish,Irish,70,NAS,40,3630,High,700,Ireland
+Jameson,Single Pot Still Batch #1 Irish,Irish,70,NAS,46,5674,Medium,700,Ireland
+Jameson,Triple Distilled Irish,Irish,70,NAS,46,21578,Medium,700,Ireland
+Jameson,Crested - Triple Distilled Irish,Irish,70,NAS,40,3970,High,700,Ireland
+Jameson,Triple Distilled Irish,Irish,70,NAS,40,3175,High,700,Ireland
+Jameson,Black Barrel Irish,Barrel,70,NAS,40,4311,High,700,Scotland
+Jameson,Caskmates - IPA Edition,Barrel,70,NAS,40,3289,High,700,Scotland
+Jameson,Caskmates - Stout Edition,Barrel,70,NAS,40,3289,High,700,Scotland
+Jameson,Black Barrel Glass Pack Irish,Barrel,70,NAS,40,5106,High,700,Scotland
+Jameson,Glass & Black Barrel Irish,Barrel,70,NAS,40,4311,High,700,Scotland
+Jameson,Classic Football Shirts - Portsmouth FC ‘98 Irish,Irish,70,NAS,40,4538,High,700,Ireland
+Jameson,Classic Football Shirts - Charlton Athletic ‘98 Irish,Irish,70,NAS,40,4538,High,700,Ireland
+Jameson,Classic Football Shirts - Tranmere Rovers ‘91 Irish,Irish,70,NAS,40,4538,High,700,Ireland
+Jameson,Classic Football Shirts - Leicester City ’84 Irish,Irish,70,NAS,40,5674,High,700,Ireland
+Jameson,Orange Irish Miniature,Irish,5,NAS,30,449,Low,50,Ireland
+Jameson,Orange Irish,Irish,70,NAS,30,7378,Low,700,Ireland
+Jameson,Triple Distilled Glass Pack,Irish,70,NAS,40,7378,High,700,Ireland
+Jameson,Classic Football Shirts - Sunderland AFC ‘92 Irish,Irish,70,NAS,40,7378,High,700,Ireland
+Jameson,Dickies Limited Edition Irish,Irish,70,NAS,40,7378,High,700,Ireland
+Jameson,Triple Distilled Irish Miniature,Irish,5,NAS,40,7378,High,50,Ireland
+Writers Tears,Single Pot Still Irish,Irish,70,NAS,46,6242,Medium,700,Ireland
+Writers Tears,Double Oak Irish,Irish,70,NAS,46,6129,Medium,700,Ireland
+Writers Tears,Copper Pot Irish,Irish,70,NAS,40,5106,High,700,Ireland
+Writers Tears,Cask Strength 2023 Limited Edition Irish,Irish,70,NAS,8,13626,Low,700,Ireland
+Writers Tears,Cask Strength 2021 Limited Edition Irish,Irish,70,NAS,2,12604,Low,700,Ireland
+Writers Tears,Miniature Book Gift Pack Whiskey (3 x,Irish,5,NAS,46,2153,Medium,50,Ireland
+Writers Tears,Ulysses Limited Edition Irish,Irish,70,NAS,40,7378,High,700,Ireland
+Writers Tears,Cask Strength 2020 Edition Irish,Irish,70,NAS,5,7378,Low,700,Ireland
+Writers Tears,Red Head Irish,Irish,70,NAS,46,7378,Medium,700,Ireland
+Writers Tears,Copper Pot Flask Gift Pack,Irish,70,NAS,40,7378,High,700,Ireland
+Hakushu,Japanese Single Malt,Japanese,70,NAS,43,499834,Medium,700,Japan
+Kamiki,Original Japanese Blended Malt,Japanese,50,NAS,48,6697,High,500,Japan
+Kamiki,Sakura Japanese Blended Malt,Japanese,50,NAS,48,6981,High,500,Japan
+Kamiki,Intense Japanese Blended Malt,Japanese,50,NAS,48,6810,High,500,Japan
+Kurayoshi,Single Malt Japanese,Japanese,70,NAS,43,11354,Medium,700,Japan
+Kanosuke,Single Malt Japanese,Japanese,70,NAS,48,10218,High,700,Japan
+Chichibu,Ichiro's Malt & Grain Blended World,Japanese,70,NAS,5,7833,Low,700,Japan
+Nikka Yoichi,Single Malt Japanese,Japanese,70,NAS,45,17602,Medium,700,Japan
+Fuji,Single Blended Japanese,Japanese,70,NAS,43,7606,Medium,700,Japan
+Togouchi,Sake Cask Finish Japanese Blended,Japanese,70,NAS,40,7719,High,700,Japan
+Togouchi,Beer Cask Finish Japanese Blended,Japanese,70,NAS,40,6583,High,700,Japan
+Togouchi,Japanese Blended,Japanese,70,NAS,8,13570,Low,700,Japan
+Togouchi,Japanese Blended,Japanese,70,NAS,40,7378,High,700,Japan
+Togouchi,Premium Japanese Blended,Japanese,70,NAS,40,5902,High,700,Japan
+Fuji,Single Grain Japanese,Japanese,70,NAS,46,7946,Medium,700,Japan
+Fuji,Single Malt Japanese,Japanese,70,NAS,46,9082,Medium,700,Japan
+Yamazaki,Suntory 100th Anniversary Edition,Suntory,70,NAS,43,19863,Medium,700,Japan
+Shinju,Japanese,Japanese,70,NAS,40,7242,High,700,Japan
+Hibiki,Harmony Master's Select,Harmony,70,NAS,43,15898,Medium,700,Japan
+Kaikyo,Hatozaki Umeshu Cask Finish Japanese,Japanese,70,NAS,40,9082,High,700,Japan
+Rampur,Sangam Indian,Indian,70,NAS,43,5674,Medium,700,India
+Indri,Dru - Cask Strength Indian Single Malt,Indian,70,NAS,2,9082,Low,700,India
+Indri,Trini - Three Wood Indian Single Malt,Indian,70,NAS,46,4993,Medium,700,India
+Amrut,Neidhal Peated Indian Single Malt,Indian,70,NAS,46,11014,Medium,700,India
+Paul John,Oloroso Select Cask Indian,Indian,70,NAS,48,8912,High,700,India
+Paul John,Pedro Ximenez Select Cask Indian,Indian,70,NAS,48,9082,High,700,India
+Paul John,Edited Indian Single Malt,Indian,70,NAS,46,5220,Medium,700,India
+Paul John,Bold Peated Indian Single Malt,Indian,70,NAS,46,5106,Medium,700,India
+Paul John,Classic Select Cask,Indian,70,NAS,2,7378,Low,700,India
+Paul John,Peated Select Cask Single Malt,Indian,70,NAS,5,8628,Low,700,India
+Paul John,Brilliance Indian Single Malt,Indian,70,NAS,46,4766,Medium,700,India
+Amrut,Peated Cask Strength,Indian,70,NAS,8,9082,Low,700,India
+Amrut,Peated Indian Single Malt,Indian,70,NAS,46,6697,Medium,700,India
+Amrut,Fusion Indian Single Malt,Indian,70,NAS,50,6583,High,700,India
+Amrut,Indian Single Malt,Indian,70,NAS,46,5106,Medium,700,India
+Amrut,Indian Single Malt Cask Strength,Indian,70,NAS,8,8401,Low,700,India
+Rampur,Double Cask Indian Single Malt Miniatures Whisky (15 x,Indian,5,NAS,45,7378,Medium,50,India
+Rampur,Asava - Indian Single Malt Miniatures Whisky (15 x,Indian,5,NAS,45,7946,Medium,50,India
+Indri,Trini - Three Wood Indian Single Malt Glass Pack,Indian,70,NAS,46,5447,Medium,700,India
+Indri,Three Wood Indian Single Malt Miniature,Indian,5,NAS,46,562,Medium,50,India
+The Lakes,Signature English Single Malt,English,70,NAS,47,8912,High,700,England
+The Lakes,The One Colheita Cask Finish,English,70,NAS,6,4425,Low,700,England
+The Lakes,The One Manzanilla Cask,English,70,NAS,6,4311,Low,700,England
+The Lakes,The One Sherry Cask Finish,English,70,NAS,6,4311,Low,700,England
+Cotswolds,Signature English Single Malt,English,70,NAS,46,5220,Medium,700,England
+Fielden,English Rye,English,70,NAS,48,6810,High,700,England
+East London Liquor Co.,Rye Chardonnay Single Cask,Rye,70,NAS,6,9650,Low,700,Canada
+Cotswolds,Founders Choice English Single Malt,English,70,NAS,5,8514,Low,700,England
+Cotswolds,Peated Cask,English,70,NAS,6,8287,Low,700,England
+Bankhall,Distiller's Cut British Single Malt,English,70,NAS,46,4538,Medium,700,England
+Bankhall,British Single Malt,English,70,NAS,40,3402,High,700,England
+The English,Sherry Cask Matured,English,70,NAS,46,7378,Medium,700,England
+White Peak,Wire Works - Virgin Oak English Single Malt,English,70,NAS,5,7378,Low,700,England
+Bimber,Ex-Bourbon Cask Batch No. 4,Bourbon,70,NAS,2,11354,Low,700,United States
+East London Liquor Co.,English Single Malt,English,70,NAS,47,5447,High,700,England
+Bankhall,Rye Rebellion,Rye,70,NAS,6,2834,Low,700,Canada
+East London Liquor Co.,London Rye,Rye,70,NAS,47,6470,High,700,Canada
+The English,Original Single Malt,Rye,70,NAS,43,5447,Medium,700,Canada
+The English,Smokey Single Malt,Rye,70,NAS,43,5106,Medium,700,Canada
+Spirit of Yorkshire,Filey Bay Flagship,Rye,70,NAS,46,6810,Medium,700,Canada
+Red Bank,Premium Blended Canadian Whisky (Kiefer,Canadian,70,NAS,40,5436,High,700,Canada
+Bearface,Elementally Aged Triple Oak Canadian,Canadian,70,NAS,5,3970,Low,700,Canada
+JP Wiser's,Triple Barrel Canadian,Barrel,70,NAS,40,3118,High,700,Scotland
+Lot No. 40,Canadian Rye,Canadian,70,NAS,43,4538,Medium,700,Canada
+JP Wiser's,Blended Canadian,Canadian,70,NAS,40,6015,High,700,Canada
+Signal Hill,Canadian,Canadian,70,NAS,40,4538,High,700,Canada
+Canadian Club,Blended Canadian,Canadian,70,NAS,40,2948,High,700,Canada
+Caribou Crossing,Single Barrel Canadian,Barrel,70,NAS,40,14762,High,700,Scotland
+Macaloney’s,Origins Miniature Gift Pack Whisky (5 x,Barrel,5,NAS,46,3402,Medium,50,Scotland
+Rare Hare,Lucky Bastard Single Barrel,Barrel,70,NAS,5,78378,Low,700,Scotland
+Lot No. 40,Dark Oak - Canadian Rye,Canadian,70,NAS,48,7378,High,700,Canada
+Pike Creek,Canadian,Canadian,70,NAS,42,7378,Medium,700,Canada
+Macaloney’s,The Peat Project Single Cask Canadian Miniature,Canadian,5,NAS,46,7378,Medium,50,Canada
+Macaloney’s,Na Braiche Miniature Canadian,Canadian,5,NAS,46,7378,Medium,50,Canada
+Macaloney’s,The Peat Project Single Cask Canadian,Canadian,70,NAS,57,7378,High,700,Canada
+Macaloney’s,St. Mallie Single Cask Canadian,Canadian,70,NAS,46,7378,Medium,700,Canada
+Macaloney’s,Siol Dugall Canadian Single Malt,Canadian,70,NAS,45,7378,Medium,700,Canada
+Macaloney’s,Kildara Canadian Single Malt,Canadian,70,NAS,46,7378,Medium,700,Canada
+Macaloney’s,Cath-Nah-Aven Canadian Single Malt,Canadian,70,NAS,46,7378,Medium,700,Canada
+Macaloney’s,An Loy Canadian Single Malt,Canadian,70,NAS,46,7378,Medium,700,Canada
+Penderyn,Dragon Series - Celt Welsh Single Malt,Welsh,70,NAS,40,3970,High,700,Wales
+Penderyn,Dragon Series - Myth Welsh Single Malt,Welsh,70,NAS,40,3743,High,700,Wales
+Da Mhile,Organic Sherry Cask Matured Welsh,Welsh,70,NAS,46,10553,Medium,700,Wales
+Aber Falls,Single Malt Welsh,Welsh,70,NAS,40,2834,High,700,Wales
+Penderyn,Icons Of Wales #10 - Yma O Hyd,Welsh,70,NAS,43,4482,Medium,700,Wales
+Penderyn,Rich Oak Finish,Welsh,70,NAS,46,5106,Medium,700,Wales
+Penderyn,Portwood Finish,Welsh,70,NAS,46,6242,Medium,700,Wales
+Penderyn,Sherrywood Cask Finish,Welsh,70,NAS,46,4993,Medium,700,Wales
+Penderyn,Madeira Cask Finish,Welsh,70,NAS,46,4311,Medium,700,Wales
+Aber Falls,Vin Santo Cask Finish Welsh Single Malt,Welsh,70,NAS,46,7946,Medium,700,Wales
+Aber Falls,Sauternes Cask Finish Welsh Single Malt,Welsh,70,NAS,47,6697,High,700,Wales
+Aber Falls,Calvados Cask Finish Welsh Single Malt,Welsh,70,NAS,46,6810,Medium,700,Wales
+Penderyn,Ex-Rye Small Batch Single Malt Welsh,Rye,70,NAS,50,8287,High,700,Canada
+Penderyn,Triple Wine Small Batch Single Malt Welsh,Welsh,70,NAS,50,8287,High,700,Wales
+Penderyn,Red Wine & Cognac Small Batch Single Malt Welsh,Welsh,70,NAS,50,8287,High,700,Wales
+Penderyn,Portwood Finish Whisky (Old,Welsh,70,NAS,46,5674,Medium,700,Wales
+Penderyn,HTFW Exclusive - Brandy Single Cask #B3,Welsh,70,NAS,9,11354,Low,700,Wales
+Penderyn,HTFW Exclusive - Ruby Port Single Cask #PT412,Welsh,70,NAS,0,17034,Low,700,Wales
+Penderyn,HTFW Exclusive - Madeira Single Cask #116-4,Welsh,70,NAS,0,17034,Low,700,Wales
+Da Mhile,Organic Welsh Single Grain,Welsh,70,NAS,46,9082,Medium,700,Wales
+Mackmyra,Svensk Ek Swedish Single Malt,Swedish,70,NAS,1,6810,Low,700,Sweden
+Mackmyra,Svensk EK Swedish Single Malt Miniature,Swedish,5,NAS,1,562,Low,50,Sweden
+High Coast,Berry Bros & Rudd - Peated Single Cask #4333,Swedish,70,NAS,8,13626,Low,700,Sweden
+Mackmyra,Bjorksav Miniature,Swedish,5,NAS,1,1130,Low,50,Sweden
+Mackmyra,Stjarnrok Miniature,Swedish,5,NAS,1,1471,Low,50,Sweden
+Mackmyra,Destination Swedish Single Malt,Swedish,70,NAS,7,7378,Low,700,Sweden
+Mackmyra,Moment Series - Virvelvind,Swedish,70,NAS,8,11922,Low,700,Sweden
+Mackmyra,Limousin Swedish Single Malt,Swedish,70,NAS,1,6810,Low,700,Sweden
+Smogen,That Boutique-y Whisky Company - Batch #2 Swedish,Swedish,50,NAS,3,15103,Low,500,Sweden
+Mackmyra,Moment Series - Brukswhisky DLX II,Swedish,70,NAS,44,13399,Medium,700,Sweden
+Mackmyra,Brukswhisky Single Malt,Swedish,70,NAS,4,6242,Low,700,Sweden
+Mackmyra,Intelligens AI:02 Swedish,Swedish,70,NAS,1,7378,Low,700,Sweden
+Mackmyra,Stjarnrok Swedish Single Malt,Swedish,70,NAS,1,7378,Low,700,Sweden
+High Coast,Berry Bros & Rudd Nordic Casks - Swedish Single Cask #1384,Swedish,70,NAS,9,19874,Low,700,Sweden
+Mackmyra,Bjorksav Swedish Single Malt,Swedish,70,NAS,1,7151,Low,700,Sweden
+Mackmyra,Frihet / Freedom Collection Set Whisky (6 x 1,Swedish,100,NAS,1,113594,Low,1000,Sweden
+Mackmyra,Miniature Gift Pack Whisky (4 x,Swedish,5,NAS,4,4538,Low,50,Sweden
+Mackmyra,Svensk Rok Miniature,Swedish,5,NAS,1,1471,Low,50,Sweden
+Mackmyra,Svensk EK Miniature,Swedish,5,NAS,1,1698,Low,50,Sweden
+Mackmyra,Brukswhisky Miniature,Swedish,5,NAS,40,903,High,50,Sweden
+Jack Daniel's,Old No. 7 - McLaren Formula 1 Team 2024 Edition,Formula 1,70,NAS,40,4425,High,700,Scotland
+Jack Daniel's,McLaren Formula 1 Team 2024 Guitar Case,Formula 1,70,NAS,40,6810,High,700,Scotland
+Jack Daniel's,Old No. 7 - McLaren Formula 1 Team 2023 Edition,Formula 1,70,NAS,40,6810,High,700,Scotland
+Jack Daniel's,McLaren Formula 1 Team 2023 Guitar Case,Formula 1,70,NAS,40,9082,High,700,Scotland
+Jack Daniel's,Old No. 7 - McLaren Formula 1 Team 2025 Edition,Formula 1,70,NAS,43,3402,Medium,700,Scotland
+Jack Daniel's,Tennessee Honey Whiskey,Tennessee,70,NAS,35,3175,Low,700,Tennessee
+Jack Daniel's,Tennessee Fire Whiskey,Tennessee,70,NAS,35,3175,Low,700,Tennessee
+Jack Daniel's,No. 27 Gold Maple Wood Finish,Tennessee,70,NAS,40,10446,High,700,Tennessee
+Jack Daniel's,Frank Sinatra Select Whiskey (1,Tennessee,100,NAS,45,17602,Medium,1000,Tennessee
+Jack Daniel's,Gentleman Jack Tennessee,Tennessee,70,NAS,40,3970,High,700,Tennessee
+Jack Daniel's,McLaren Formula 1 Team 2025 Guitar Case,Formula 1,70,NAS,43,6810,Medium,700,Scotland
+Yamazaki,Distiller's Reserve Japanese,Japanese,70,NAS,43,9650,Medium,700,Japan
+Yamazaki,Japanese Single Malt,Japanese,70,NAS,43,15785,Medium,700,Japan
+Yamazaki,Japanese Single Malt,Japanese,70,NAS,43,79514,Medium,700,Japan
+Yamazaki,Tsukuriwake Cask Collection 2024 - Islay Peated,Japanese,70,NAS,48,51114,High,700,Japan
+Yamazaki,Tsukuriwake Cask Collection 2024 - Mizunara,Japanese,70,NAS,48,181754,High,700,Japan
+Yamazaki,Tsukuriwake Cask Collection 2024 - Golden Promise,Japanese,70,NAS,48,51114,High,700,Japan
+Yamazaki,Mizunara - Suntory 100th Anniversary Edition,Suntory,70,NAS,48,227194,High,700,Japan
+Yamazaki,Tsukuriwake Selection 2022 Edition Japanese Whisky (4 x,Japanese,70,NAS,48,567994,High,700,Japan
+Yamazaki,Japanese Single Malt,Japanese,70,NAS,43,795194,Medium,700,Japan
+Yamazaki,Mizunara Oak Cask 2017 Edition,Japanese,70,NAS,48,1022394,High,700,Japan
+Yamazaki,Bourbon Barrel 2013,Bourbon,70,NAS,48,397594,High,700,United States
+Yamazaki,Sherry Cask 2013,Bourbon,70,NAS,48,624800,High,700,United States
+Yamazaki,Puncheon Cask 2013,Bourbon,70,NAS,48,227194,High,700,United States
+Yamazaki,Suntory Japanese Single Malt Miniature,Suntory,5,NAS,43,6810,Medium,50,Japan
+Yamazaki,2023 Limited Edition Japanese,Japanese,70,NAS,43,56794,Medium,700,Japan
+Yamazaki,Smoky Batch - The First,Japanese,70,NAS,43,59066,Medium,700,Japan
+Yamazaki,Single Malt (White Box),Japanese,70,NAS,40,51114,High,700,Japan
+Yamazaki,The Essence Of Suntory - Peated Malt,Suntory,50,NAS,49,136314,High,500,Japan
+Yamazaki,The Essence Of Suntory - Spanish Oak,Suntory,50,NAS,56,136314,High,500,Japan
+Hibiki,Japanese Blended,Japanese,70,NAS,43,90874,Medium,700,Japan
+Hibiki,Harmony Blossom 2022 Limited Edition,Harmony,70,NAS,43,28394,Medium,700,Japan
+Hibiki,Harmony Master's Select - 100th Anniversary,Harmony,70,NAS,43,19306,Medium,700,Japan
+Hibiki,Suntory 100th Anniversary Edition,Suntory,70,NAS,43,681594,Medium,700,Japan
+Hibiki,Harmony - Suntory 100th Anniversary Edition,Harmony,70,NAS,43,39186,Medium,700,Japan
+Hibiki,Harmony Limited Edition 2021,Harmony,70,NAS,43,68154,Medium,700,Japan
+Hibiki,Harmony 30th Anniversary Special Edition,Harmony,70,NAS,43,340794,Medium,700,Japan
+Hibiki,Japanese Blended,Japanese,70,NAS,43,85194,Medium,700,Japan
+Hibiki,Japanese Blended,Japanese,70,NAS,43,113594,Medium,700,Japan
+Hibiki,Japanese Blended,Japanese,70,NAS,43,7378,Medium,700,Japan
+Hibiki,Harmony Japanese Suntory,Harmony,70,NAS,43,7378,Medium,700,Japan
+Hibiki,Kacho Fugetsu Limited Edition,Harmony,70,NAS,43,7378,Medium,700,Japan
+Hibiki,Neck Tag & Japanese Harmony Whisky (Old,Japanese,70,NAS,43,7378,Medium,700,Japan
+Hibiki,Blender's Choice,Japanese,70,NAS,43,7378,Medium,700,Japan
+Hibiki,Harmony Master's Select Limited Edition,Harmony,70,NAS,43,7378,Medium,700,Japan
+Hibiki,Japanese Blended,Japanese,50,NAS,43,7378,Medium,500,Japan
+Hibiki,Millennium Finest Old Mild & Smooth,Japanese,70,NAS,40,7378,High,700,Japan
+Hibiki,Blended Miniature,Japanese,5,NAS,43,7378,Medium,50,Japan
+Woodford Reserve,Baccarat Edition Bourbon,Bourbon,70,NAS,2,153241,Low,700,United States
+Woodford Reserve,Kentucky Straight Wheat,Kentucky,70,NAS,2,3970,Low,700,Kentucky
+Woodford Reserve,Distiller's Select Malt,Kentucky,70,NAS,2,4879,Low,700,Kentucky
+Woodford Reserve,Distiller's Select Bourbon,Bourbon,70,NAS,2,4311,Low,700,United States
+Woodford Reserve,Double Oaked Kentucky Straight Bourbon,Kentucky,70,NAS,2,6810,Low,700,Kentucky
+Woodford Reserve,Distiller's Select Straight Rye,Rye,70,NAS,2,4311,Low,700,Canada
+Woodford Reserve,Master's Collection - Historic Barrel Entry Bourbon,Barrel,70,NAS,2,15898,Low,700,Scotland
+Woodford Reserve,Batch Proof 124.7 Bourbon,Bourbon,70,NAS,35,15898,Low,700,United States
+Woodford Reserve,Masters Collection - Maple Wood Finish Bourbon,Bourbon,70,NAS,2,34074,Low,700,United States
+Woodford Reserve,Kentucky Derby 142 Whiskey (1,Kentucky,100,NAS,2,11354,Low,1000,Kentucky
+Woodford Reserve,Masters Collection - 123.6 Batch Proof Bourbon,Bourbon,70,NAS,8,14194,Low,700,United States
+Woodford Reserve,Distiller's Select Bourbon Miniatures Whiskey (12 x,Bourbon,5,NAS,2,5106,Low,50,United States
+Woodford Reserve,Glass & Five-Malt Stouted Mash,Bourbon,70,NAS,40,14762,High,700,United States
+Woodford Reserve,Master's Collection - Five-Malt Stouted Mash,Bourbon,70,NAS,2,13513,Low,700,United States
+Woodford Reserve,Glass & Distiller's Select Malt,Bourbon,70,NAS,2,4766,Low,700,United States
+Woodford Reserve,Glass & Distiller's Select Straight Rye,Rye,70,NAS,2,4766,Low,700,Canada
+Woodford Reserve,Glass & Double Oaked Kentucky Straight Bourbon,Kentucky,70,NAS,2,6810,Low,700,Kentucky
+Woodford Reserve,Glass & Distiller's Select Bourbon,Bourbon,70,NAS,2,4538,Low,700,United States
+Woodford Reserve,Glass & Kentucky Straight Wheat,Kentucky,70,NAS,2,4993,Low,700,Kentucky
+Banks,7 Golden Age,Barrel,70,NAS,43,6242,Medium,700,Scotland
+Banks,5 Island,Barrel,70,NAS,43,5447,Medium,700,Scotland
+Egan's,Endeavour Irish,Irish,70,NAS,46,5334,Medium,700,Ireland
+Cooley,Rare Find by Gleann Mor - Single Cask Rum Cask Finish Irish,Irish,70,NAS,8,17034,Low,700,Ireland
+Bushmills,The Causeway Collection - Rum Cask Whiskey (UK,Very Rare,70,NAS,2,39641,Low,700,England
+Connemara,Peated Irish Single Malt,Irish,70,NAS,40,7378,High,700,Ireland
+Flaming Pig,Black Cask Irish,Irish,70,NAS,40,4198,High,700,Ireland
+Rammstein,Irish,Irish,70,NAS,43,8174,Medium,700,Ireland
+Egan's,Conviction Irish,Irish,70,NAS,46,7946,Medium,700,Ireland
+The Irishman,Single Malt Irish,Irish,70,NAS,54,20102,High,700,Ireland
+Berry Bros & Rudd,Classic Irish Reserve Single Malt,Irish,70,NAS,2,5106,Low,700,Ireland
+Powers,Gold Label Distillers Cut,Irish,70,NAS,2,3630,Low,700,Ireland
+Kyro,Malt Rye,Rye,70,NAS,2,6242,Low,700,Canada
+Kyro,Wood Smoke Rye Malt,Rye,70,NAS,2,7378,Low,700,Canada
+Kyro,Peat Smoke Malt Rye,Rye,70,NAS,2,7378,Low,700,Canada
+Starward,Fortis Australian Single Malt,Australian,70,NAS,50,6583,High,700,Australia
+Starward,Left-Field Australian Single Malt,Australian,70,NAS,40,4311,High,700,Australia
+Starward,Nova Australian Single Malt,Australian,70,NAS,41,5106,Medium,700,Australia
+Starward,Solera Australian Single Malt,Australian,70,NAS,43,6810,Medium,700,Australia
+Starward,Vitalis 15th Anniversary Edition Australian Single Malt,Australian,70,NAS,52,14649,High,700,Australia
+Starward,Octave Barrels Australian Single Malt,Australian,70,NAS,48,9628,High,700,Australia
+Starward,Unexpeated Australian Single Malt,Australian,70,NAS,48,9185,High,700,Australia
+Starward,Trio Gift Pack Whisky (3 x,Australian,20,NAS,7,5674,Low,200,Australia
+Starward,Ginger Beer Cask #6,Australian,50,NAS,48,9082,High,500,Australia
+Starward,That Boutique-Y Whisky Company Batch #1,Australian,50,NAS,56,11354,High,500,Australia
+Starward,Project Release - Dolce,Australian,50,NAS,48,11354,High,500,Australia
+Starward,Tawny Port Cask,Australian,50,NAS,48,9650,High,500,Australia
+Starward,Two Fold Double Grain Australian Single Malt,Australian,70,NAS,40,5674,High,700,Australia
+Starward,(New) Old Fashioned Whisky Cocktail Whisky,Australian,50,NAS,32,7378,Low,500,Australia
+Shizuoka,1st Edition - Pot Still K 100% Imported Barley,Barrel,70,NAS,5,22714,Low,700,Scotland
+Shizuoka,1st Edition - United S Single Malt Japanese,Japanese,70,NAS,5,13058,Low,700,Japan
+Shizuoka,1st Edition - Pot Still W 100% Imported Barley,Japanese,70,NAS,5,17034,Low,700,Japan
+Shizuoka,1st Edition - Pot Still K 100% Japanese Barley,Japanese,70,NAS,5,26122,Low,700,Japan
+Shizuoka,Automotive Icons Series Vol. 1 Toyota 2000GT,Japanese,70,NAS,4,51114,Low,700,Japan
+Waterford,Biodynamic Cuvee Luna 2024 Single Malt Irish,Irish,70,NAS,50,9991,High,700,Ireland
+Waterford,Heritage Goldthorpe Single Malt Irish,Irish,70,NAS,50,10559,High,700,Ireland
+Waterford,Cuvee Koffi Single Malt Irish,Irish,70,NAS,50,8514,High,700,Ireland
+Waterford,The Cuvee Argot Single Malt Irish,Irish,70,NAS,47,6242,High,700,Ireland
+Waterford,Arcadian Series Gaia Organic 2.1 Irish,Irish,70,NAS,50,8174,High,700,Ireland
+Waterford,Single Farm Origin Series Grattansbrook 1.1,Irish,70,NAS,50,7946,High,700,Ireland
+Waterford,Single Farm Origin Series Lakefield 1.1,Irish,70,NAS,50,10218,High,700,Ireland
+Waterford,Single Farm Origin Series Hook Head 1.1,Irish,70,NAS,50,7946,High,700,Ireland
+Waterford,Arcadian Series Organic Gaia 1.1 - Irish Single Malt,Irish,70,NAS,50,9082,High,700,Ireland
+Waterford,Single Farm Origin Series Ballymorgan 1.1 Irish,Irish,70,NAS,50,10218,High,700,Ireland
+Waterford,Single Farm Origin Series Sheestown 1.1 Irish,Irish,70,NAS,50,10218,High,700,Ireland
+Waterford,Single Farm Origin Series Bannow Island 1.1 Irish,Irish,70,NAS,50,10218,High,700,Ireland
+Waterford,Single Farm Origin Series Ballykilcavan 1.1 Irish,Irish,70,NAS,50,10218,High,700,Ireland
+Waterford,Arcadian Farm Origin Series Lacken 1.1 Peated,Irish,70,NAS,50,7378,High,700,Ireland
+Waterford,Heritage Hunter 1.1 Irish,Irish,70,NAS,50,7378,High,700,Ireland
+Waterford,Single Farm Origin Series Ballybannon 1.1 Peated,Irish,70,NAS,50,7378,High,700,Ireland
+Waterford,Luna Biodynamic Single Malt,Irish,70,NAS,50,7378,High,700,Ireland
+Waterford,The Cuvee Single Malt Irish,Irish,70,NAS,50,7378,High,700,Ireland
+Waterford,Micro Cuvee - Lomhar Single Malt Irish,Irish,70,NAS,50,7378,High,700,Ireland
+Waterford,Single Farm Origin Series Ballymorgan 1.2,Irish,70,NAS,50,7378,High,700,Ireland
+Teeling,Single Irish Pot Still,Irish,70,NAS,46,5106,Medium,700,Ireland
+Teeling,Irish Single Malt,Irish,70,NAS,46,5561,Medium,700,Ireland
+Teeling,Single Grain Irish,Irish,70,NAS,46,4993,Medium,700,Ireland
+Teeling,Rising Reserve No. 3 Single Malt Irish,Irish,70,NAS,46,22146,Medium,700,Ireland
+Teeling,Wonders Of Wood Vol 3 - Virgin Swedish Oak,Swedish,70,NAS,50,10786,High,700,Sweden
+Teeling,Small Batch Cask Glass Pack,Swedish,70,NAS,46,5674,Medium,700,Sweden
+Teeling,Dark Porter - Small Batch Collaboration - 2022 Release,Swedish,70,NAS,46,5674,Medium,700,Sweden
+Teeling,Wonders Of Wood Edition 1 Irish Pot Still,Irish,70,NAS,50,34074,High,700,Ireland
+Teeling,Renaissance Batch #5 Irish Single Malt,Irish,70,NAS,46,34074,Medium,700,Ireland
+Teeling,Single Malt,Irish,70,NAS,43,100985,Medium,700,Ireland
+Teeling,Amber Ale Small Batch Collaboration Dot Brew,Irish,70,NAS,46,6810,Medium,700,Ireland
+Teeling,Black Pitts - Peated Single Malt Irish,Irish,70,NAS,46,6356,Medium,700,Ireland
+Teeling,Renaissance Batch #2 Irish Single Malt,Irish,70,NAS,46,34074,Medium,700,Ireland
+Teeling,Ginger Beer - Small Batch Collaboration Vol 1 - 2020 Release,Irish,70,NAS,46,17034,Medium,700,Ireland
+Teeling,Vintage Reserve Collection Single Malt,Irish,70,NAS,46,79514,Medium,700,Ireland
+Teeling,Silver Reserve Irish,Irish,70,NAS,46,85194,Medium,700,Ireland
+Teeling,Small Batch Irish,Irish,70,NAS,46,7378,Medium,700,Ireland
+Teeling,Pineapple Rum Cask #2 - Small Batch Collaboration - 2022 Release,Irish,70,NAS,2,7378,Low,700,Ireland
+Teeling,Ginger Beer - Small Batch Collaboration - 2022 Release,Irish,70,NAS,46,7378,Medium,700,Ireland
+Teeling,Vintage Reserve - Single Malt Irish,Irish,70,NAS,46,7378,Medium,700,Ireland
