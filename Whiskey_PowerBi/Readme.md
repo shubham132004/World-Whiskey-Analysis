@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/bf1ec4a1-a664-4c2e-bfdc-ad7e74afda98
 
 
-# 🥃 Chapter 3 — The Whiskey Code: When Whiskey Meets Dashboard
+# Chapter 3 — The Whiskey Code: When Whiskey Meets Dashboard
 
 Welcome to the third installment in my whiskey data journey. In this chapter, I bring the story to life using **Power BI**, where rich visuals blend seamlessly with deep insights to analyze whiskey across brands, ABV%, price, and type.
 
@@ -78,7 +78,7 @@ Includes calculated columns such as:
 ---
 ![Screenshot 2025-06-27 121149](https://github.com/user-attachments/assets/e37bfb78-6608-49e7-84c6-391a8e864150)
 
-> 📌 **You can also refer to the [project presentation (PPT)](https://github.com/shubham132004/World-Whiskey-Analysis/blob/main/The%20whiskey%20code.pdf)** for a detailed breakdown of objectives, visuals, and insights.
+> 📌 **You can also refer to the [project presentation (PPT)](https://github.com/shubham132004/World-Whiskey-Analysis/blob/main/Whiskey_PowerBi/The%20whiskey%20code.pdf)** for a detailed breakdown of objectives, visuals, and insights.
 
 ---
 > 📌 *If you missed the earlier chapters (EDA & SQL), check them out here:*  
