@@ -73,7 +73,7 @@ Includes calculated columns such as:
 ## 🔗 GitHub Repository
 
 > View the complete dashboard and Power BI file here:  
-**[🔗 Click to visit the repo](https://github.com/shubham132004/World-Whiskey-Analysis/tree/main/Whiskey_PowerBi)**
+**[🔗 Click to visit the repo](https://github.com/shubham132004/World-Whiskey-Analysis/tree/main/Whiskey_PowerBi/DASHBOARD)**
 
 ---
 ![Screenshot 2025-06-27 121149](https://github.com/user-attachments/assets/e37bfb78-6608-49e7-84c6-391a8e864150)
