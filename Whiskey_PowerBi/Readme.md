@@ -76,7 +76,8 @@ Includes calculated columns such as:
 **[🔗 Click to visit the repo](https://github.com/shubham132004/World-Whiskey-Analysis/tree/main/Whiskey_PowerBi)**
 
 ---
-![PPT]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2025-06-27 121149.png")
+![Screenshot 2025-06-27 121149](https://github.com/user-attachments/assets/e37bfb78-6608-49e7-84c6-391a8e864150)
+
 > 📌 **You can also refer to the [project presentation (PPT)](https://github.com/shubham132004/World-Whiskey-Analysis/blob/main/The%20whiskey%20code.pdf)** for a detailed breakdown of objectives, visuals, and insights.
 
 ---
